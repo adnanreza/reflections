@@ -5,13 +5,20 @@ Git initializes the directory to be a new git repository and lists the untracked
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is an intermediary location between the working directory and the repository.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+By using the command "git diff --staged" we can identify the exact difference between files in the staging area and files in the repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+If we try to experiment with a project or create another version of the project in say another language or for another audience, branching would be the logical thing to do.
+
 How do the diagrams help you visualize the branch structure?
+The diagram provides us with an easy-to-understand illustration of the commits and branches are structured.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
