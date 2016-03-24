@@ -14,3 +14,7 @@ http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-an
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 We can compare the exact differences between the local master and the version stored on GitHub (same as local remote copy).
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could use other version control systems like SVN which might be easier if I already knew SVN. If we decided to manually maintain versions of files and collaborate that would be a lot harder to keep track of and merge contributions.
