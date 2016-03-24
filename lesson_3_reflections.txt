@@ -12,3 +12,5 @@ A clone is a copy of a repository (can be local or remote). A branch occurs with
 Useful link:
 http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can compare the exact differences between the local master and the version stored on GitHub (same as local remote copy).
