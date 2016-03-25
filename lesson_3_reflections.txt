@@ -18,3 +18,7 @@ We can compare the exact differences between the local master and the version st
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I could use other version control systems like SVN which might be easier if I already knew SVN. If we decided to manually maintain versions of files and collaborate that would be a lot harder to keep track of and merge contributions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It only makes sense to make changes in a separate branch when you're working on a separate feature or to experiment with the current version and you wouldn't want to break your master.
