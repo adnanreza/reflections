@@ -7,3 +7,5 @@ intermediate location
 
 How can you use the staging area to make sure you have one commit per logical change?
 git status
+
+How do the diagrams help you visualize the branch structure?
